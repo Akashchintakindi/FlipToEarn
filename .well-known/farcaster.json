@@ -5,13 +5,14 @@
     "signature": ""
   },
   "frame": {
-    "version": "1",
     "name": "FlipToEarn",
+    "version": "1",
     "iconUrl": "https://github.com/Akashchintakindi/FlipToEarn/blob/main/icon.png",
-    "homeUrl": "",
-    "imageUrl": "https://github.com/Akashchintakindi/FlipToEarn/blob/main/image.png",
-    "buttonTitle": "Arbitrum Vs Base",
+    "homeUrl": "https://flip-to-earn-steel.vercel.app/",
+    "subtitle": "flip",
+    "description": "gg",
+    "primaryCategory": "games",
     "splashImageUrl": "https://github.com/Akashchintakindi/FlipToEarn/blob/main/splash.png",
-    "splashBackgroundColor": "#111111",
+    "splashBackgroundColor": "#111111"
   }
 }
