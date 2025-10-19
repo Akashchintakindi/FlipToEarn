@@ -1,8 +1,8 @@
 {
   "accountAssociation": {
-    "header": "",
-    "payload": "",
-    "signature": ""
+    "header": "eyJmaWQiOjIzNDU2NiwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweDlkODJEQkY0ODY4MTc3NUIyYjgxOTc3Njg4QzUwMTA4OGEwMTVCRWEifQ",
+    "payload": "eyJkb21haW4iOiJmbGlwLXRvLWVhcm4tc3RlZWwudmVyY2VsLmFwcCJ9",
+    "signature": "JJ+ap+/MJf7n8XNmem+BqHtmzmOkhlL9S4vJ1IVQaCdu3yYrXx0IsXSqhm3x/u2bXJDuKzPd46roXrvSw25CgBs="
   },
   "frame": {
     "name": "FlipToEarn",
