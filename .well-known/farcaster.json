@@ -7,11 +7,11 @@
   "frame": {
     "version": "1",
     "name": "FlipToEarn",
-    "iconUrl": "",
+    "iconUrl": "https://github.com/Akashchintakindi/FlipToEarn/blob/main/icon.png",
     "homeUrl": "",
-    "imageUrl": "",
+    "imageUrl": "https://github.com/Akashchintakindi/FlipToEarn/blob/main/image.png",
     "buttonTitle": "Arbitrum Vs Base",
-    "splashImageUrl": "",
+    "splashImageUrl": "https://github.com/Akashchintakindi/FlipToEarn/blob/main/splash.png",
     "splashBackgroundColor": "#111111",
   }
 }
